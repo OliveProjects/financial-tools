@@ -1,8 +1,8 @@
 {
-  "lastFmpUpdate": "2026-06-09T20:21:10Z",
-  "lastYahooUpdate": "2026-06-09T20:21:10Z",
-  "lastAnalystUpdate": "2026-06-09T20:21:10Z",
-  "generatedAt": "2026-06-09T20:21:10Z",
+  "lastFmpUpdate": "2026-06-09T22:06:38Z",
+  "lastYahooUpdate": "2026-06-09T22:06:38Z",
+  "lastAnalystUpdate": "2026-06-09T22:06:38Z",
+  "generatedAt": "2026-06-09T22:06:38Z",
   "stocks": [
     {
       "ticker": "MSFT",
@@ -82,7 +82,7 @@
       "buy": 56,
       "hold": 7,
       "sell": 0,
-      "target": 431.19
+      "target": 431.76
     },
     {
       "ticker": "META",
