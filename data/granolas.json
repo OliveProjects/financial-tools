@@ -1,8 +1,8 @@
 {
-  "lastFmpUpdate": "2026-06-15T21:09:41Z",
-  "lastYahooUpdate": "2026-06-15T21:09:41Z",
-  "lastAnalystUpdate": "2026-06-15T21:09:41Z",
-  "generatedAt": "2026-06-15T21:09:41Z",
+  "lastFmpUpdate": "2026-06-15T23:09:57Z",
+  "lastYahooUpdate": "2026-06-15T23:09:57Z",
+  "lastAnalystUpdate": "2026-06-15T23:09:57Z",
+  "generatedAt": "2026-06-15T23:09:57Z",
   "stocks": [
     {
       "ticker": "GSK",
@@ -98,7 +98,7 @@
       "buy": 5,
       "hold": 9,
       "sell": 0,
-      "target": 47.4
+      "target": 47.38
     },
     {
       "ticker": "LRLCY",
