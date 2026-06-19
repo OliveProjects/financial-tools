@@ -1,8 +1,8 @@
 {
-  "lastFmpUpdate": "2026-06-19T18:04:44Z",
-  "lastYahooUpdate": "2026-06-19T18:04:44Z",
-  "lastAnalystUpdate": "2026-06-19T18:04:44Z",
-  "generatedAt": "2026-06-19T18:04:44Z",
+  "lastFmpUpdate": "2026-06-19T20:03:36Z",
+  "lastYahooUpdate": "2026-06-19T20:03:36Z",
+  "lastAnalystUpdate": "2026-06-19T20:03:36Z",
+  "generatedAt": "2026-06-19T20:03:36Z",
   "stocks": [
     {
       "ticker": "MSFT",
@@ -61,7 +61,7 @@
       "roe": 22.1,
       "grossMargin": 48.9,
       "revenueGrowth": 11.0,
-      "rsi": 37,
+      "rsi": 44,
       "beta": 1.31,
       "buy": 63,
       "hold": 4,
