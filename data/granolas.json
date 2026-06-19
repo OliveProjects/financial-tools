@@ -1,8 +1,8 @@
 {
-  "lastFmpUpdate": "2026-06-18T23:24:48Z",
-  "lastYahooUpdate": "2026-06-18T23:24:48Z",
-  "lastAnalystUpdate": "2026-06-18T21:30:39Z",
-  "generatedAt": "2026-06-18T23:24:48Z",
+  "lastFmpUpdate": "2026-06-19T16:09:00Z",
+  "lastYahooUpdate": "2026-06-19T16:09:00Z",
+  "lastAnalystUpdate": "2026-06-19T16:09:00Z",
+  "generatedAt": "2026-06-19T16:09:00Z",
   "stocks": [
     {
       "ticker": "GSK",
@@ -23,13 +23,13 @@
     {
       "ticker": "RHHBY",
       "name": "Roche",
-      "price": 51.06,
+      "price": 49.74,
       "pe": 17.5,
       "peg": 2.5,
       "roe": 34.8,
       "grossMargin": 72.1,
       "revenueGrowth": 2.1,
-      "rsi": 47,
+      "rsi": 40,
       "beta": 0.33,
       "buy": 4,
       "hold": 4,
@@ -50,12 +50,12 @@
       "buy": 38,
       "hold": 4,
       "sell": 2,
-      "target": 1685.72
+      "target": 1718.34
     },
     {
       "ticker": "NSRGY",
       "name": "Nestl\u00e9",
-      "price": 98.25,
+      "price": 98.1,
       "pe": 18.1,
       "peg": 3.5,
       "roe": 20.3,
@@ -98,18 +98,18 @@
       "buy": 5,
       "hold": 9,
       "sell": 0,
-      "target": 46.85
+      "target": 47.15
     },
     {
       "ticker": "LRLCY",
       "name": "L'Or\u00e9al",
-      "price": 87.3,
+      "price": 88.6,
       "pe": 29.8,
       "peg": 3.0,
       "roe": 26.8,
       "grossMargin": 74.1,
       "revenueGrowth": 5.8,
-      "rsi": 57,
+      "rsi": 61,
       "beta": 0.89,
       "buy": 3,
       "hold": 1,
@@ -119,13 +119,13 @@
     {
       "ticker": "LVMUY",
       "name": "LVMH",
-      "price": 116.09,
+      "price": 117.17,
       "pe": 21.5,
       "peg": 2.4,
       "roe": 24.6,
       "grossMargin": 68.9,
       "revenueGrowth": 1.2,
-      "rsi": 59,
+      "rsi": 60,
       "beta": 0.84,
       "buy": 1,
       "hold": 2,
