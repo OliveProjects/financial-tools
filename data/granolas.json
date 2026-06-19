@@ -1,8 +1,8 @@
 {
-  "lastFmpUpdate": "2026-06-19T18:08:11Z",
-  "lastYahooUpdate": "2026-06-19T18:08:11Z",
-  "lastAnalystUpdate": "2026-06-19T18:08:11Z",
-  "generatedAt": "2026-06-19T18:08:11Z",
+  "lastFmpUpdate": "2026-06-19T20:04:29Z",
+  "lastYahooUpdate": "2026-06-19T20:04:29Z",
+  "lastAnalystUpdate": "2026-06-19T20:04:29Z",
+  "generatedAt": "2026-06-19T20:04:29Z",
   "stocks": [
     {
       "ticker": "GSK",
@@ -45,7 +45,7 @@
       "roe": 50.2,
       "grossMargin": 51.4,
       "revenueGrowth": 14.8,
-      "rsi": 68,
+      "rsi": 71,
       "beta": 1.4,
       "buy": 38,
       "hold": 4,
@@ -93,12 +93,12 @@
       "roe": 89.5,
       "grossMargin": 84.2,
       "revenueGrowth": 22.1,
-      "rsi": 48,
+      "rsi": 46,
       "beta": 0.35,
       "buy": 5,
       "hold": 9,
       "sell": 0,
-      "target": 47.19
+      "target": 47.21
     },
     {
       "ticker": "LRLCY",
@@ -157,7 +157,7 @@
       "roe": 18.2,
       "grossMargin": 73.4,
       "revenueGrowth": 10.3,
-      "rsi": 36,
+      "rsi": 34,
       "beta": 0.73,
       "buy": 13,
       "hold": 3,
