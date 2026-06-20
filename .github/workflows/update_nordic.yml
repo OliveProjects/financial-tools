@@ -3,7 +3,10 @@ name: Update Nordic Data
 on:
   schedule:
     - cron: '*/15 8-16 * * 1-5'
-  workflow_dispatch: # Manual trigger
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/fetch_nordic.py']
 
 jobs:
   fetch:
