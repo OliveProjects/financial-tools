@@ -138,6 +138,9 @@ def fetch_stock(ticker, index_name):
         beta   = info.get("beta")
         beta   = round(float(beta), 3) if _is_valid(beta) else None
 
+        pb     = info.get("priceToBook")
+        pb     = round(float(pb), 2) if _is_valid(pb) else None
+
         target = info.get("targetMeanPrice")
         target = round(float(target), 2) if _is_valid(target) else None
 
@@ -172,6 +175,7 @@ def fetch_stock(ticker, index_name):
             "revenueGrowth": rg,
             "rsi":           rsi,
             "beta":          beta,
+            "priceToBook":   pb,
             "buy":           buy,
             "hold":          hold,
             "sell":          sell,

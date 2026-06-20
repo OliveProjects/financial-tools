@@ -265,6 +265,7 @@ def main():
             "price":         round(price, 2) if price else base.get("price"),
             "pe":            get(ratios.get("priceToEarningsRatio"),         "pe"),
             "peg":           get(ratios.get("priceToEarningsGrowthRatio"),   "peg"),
+            "priceToBook":   get(ratios.get("priceToBookRatio"),              "priceToBook"),
             "roe":           get(metrics.get("returnOnEquity"),               "roe",  100.0),
             "grossMargin":   get(ratios.get("grossProfitMargin"),             "grossMargin", 100.0),
             "revenueGrowth": get(growth.get("revenueGrowth"),                "revenueGrowth", 100.0),
