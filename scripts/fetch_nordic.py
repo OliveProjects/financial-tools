@@ -78,7 +78,8 @@ NAME_MAP = {
 
 def _is_valid(v):
     try:
-        return v is not None and not math.isnan(float(v))
+        f = float(v)
+        return v is not None and not math.isnan(f) and not math.isinf(f)
     except Exception:
         return False
 
