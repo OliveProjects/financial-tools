@@ -1,5 +1,5 @@
 """
-Mag7 data fetcher.
+Mag7 data fetcher. Includes priceToBook (P/B) field.
 
 Runs every 15 minutes via GitHub Actions (market hours only).
 - Always: Yahoo Finance v8 (price + RSI) — free, unlimited

@@ -1,4 +1,4 @@
-"""Fetch Nordic index data: OMX30, OBX25, OMXC25, OMXH25 — all via yfinance."""
+"""Fetch Nordic index data: OMX30, OBX25, OMXC25, OMXH25 — all via yfinance. Includes priceToBook (P/B)."""
 import os, json, math, datetime
 import yfinance as yf
 
