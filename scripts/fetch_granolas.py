@@ -70,7 +70,10 @@ def fetch_yahoo(ticker):
         if hist.empty:
             return {"ticker": ticker, "price": None, "rsi": None}
         closes = [float(c) for c in hist["Close"].tolist()]
-        price  = round(closes[-1], 2)
+        try:
+            price = round(float(t.fast_info.last_price), 2)
+        except Exception:
+            price = round(closes[-1], 2)
         return {"ticker": ticker, "price": price, "rsi": calc_rsi(closes)}
     except Exception as e:
         print(f"Yahoo error [{ticker}]: {e}")
