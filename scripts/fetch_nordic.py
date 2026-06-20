@@ -106,7 +106,7 @@ def calc_rsi(closes, period=14):
 def fetch_stock(ticker, index_name):
     try:
         t    = yf.Ticker(ticker)
-        hist = t.history(period="1mo", interval="1d")
+        hist = t.history(period="6mo", interval="1d")
         if hist.empty:
             return None
 
