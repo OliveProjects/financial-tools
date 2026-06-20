@@ -1,6 +1,6 @@
 {
-  "lastYahooUpdate": "2026-06-20T22:38:23Z",
-  "generatedAt": "2026-06-20T22:38:23Z",
+  "lastYahooUpdate": "2026-06-20T22:48:12Z",
+  "generatedAt": "2026-06-20T22:48:12Z",
   "stocks": [
     {
       "ticker": "D05.SI",
@@ -148,7 +148,7 @@
       "revenueGrowth": 3.0,
       "rsi": 60,
       "beta": 0.106,
-      "priceToBook": 0.83,
+      "priceToBook": 0.82,
       "buy": 3,
       "hold": 7,
       "sell": 2,
@@ -623,7 +623,7 @@
       "revenueGrowth": -1.8,
       "rsi": 68,
       "beta": 0.094,
-      "priceToBook": 2.13,
+      "priceToBook": 2.11,
       "buy": 11,
       "hold": 5,
       "sell": 0,
