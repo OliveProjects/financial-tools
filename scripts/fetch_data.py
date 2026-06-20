@@ -53,15 +53,16 @@ def calc_rsi(closes, period=14):
     return round(100 - (100 / (1 + avg_gain / avg_loss)))
 
 
-# ── Yahoo Finance v8 (price + RSI) ────────────────────────────────────────────
+# ── Yahoo Finance via yfinance (price + RSI) ──────────────────────────────────
 
 def fetch_yahoo(ticker):
-    url = f"https://query1.finance.yahoo.com/v8/finance/chart/{ticker}?interval=1d&range=1mo"
     try:
-        data   = fetch_url(url)
-        result = data["chart"]["result"][0]
-        closes = result["indicators"]["quote"][0]["close"]
-        price  = result["meta"].get("regularMarketPrice")
+        t    = yf.Ticker(ticker)
+        hist = t.history(period="1mo", interval="1d")
+        if hist.empty:
+            return {"ticker": ticker, "price": None, "rsi": None}
+        closes = [float(c) for c in hist["Close"].tolist()]
+        price  = round(closes[-1], 2)
         return {"ticker": ticker, "price": price, "rsi": calc_rsi(closes)}
     except Exception as e:
         print(f"Yahoo error [{ticker}]: {e}")
@@ -77,7 +78,7 @@ def fetch_analyst(ticker):
         recs = t.recommendations
         if recs is None or recs.empty:
             return None
-        row = recs.iloc[0]
+        row = recs.sort_index(ascending=False).iloc[0]
         buy  = int(row.get("strongBuy", 0)) + int(row.get("buy", 0))
         hold = int(row.get("hold", 0))
         sell = int(row.get("sell", 0)) + int(row.get("strongSell", 0))
