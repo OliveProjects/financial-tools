@@ -1,6 +1,6 @@
 {
-  "lastYahooUpdate": "2026-06-20T22:38:19Z",
-  "generatedAt": "2026-06-20T22:38:19Z",
+  "lastYahooUpdate": "2026-06-20T22:41:12Z",
+  "generatedAt": "2026-06-20T22:41:12Z",
   "stocks": [
     {
       "ticker": "ASML.AS",
@@ -611,25 +611,6 @@
       "target": 89.01
     },
     {
-      "ticker": "GLPG.BR",
-      "name": "Galapagos",
-      "index": "BEL20",
-      "currency": "EUR",
-      "price": 15.99,
-      "pe": null,
-      "peg": null,
-      "roe": null,
-      "grossMargin": null,
-      "revenueGrowth": null,
-      "rsi": 100,
-      "beta": null,
-      "priceToBook": null,
-      "buy": 0,
-      "hold": 0,
-      "sell": 0,
-      "target": null
-    },
-    {
       "ticker": "KBC.BR",
       "name": "KBC",
       "index": "BEL20",
@@ -704,25 +685,6 @@
       "hold": 3,
       "sell": 0,
       "target": 82.11
-    },
-    {
-      "ticker": "PROX.BR",
-      "name": "Proximus",
-      "index": "BEL20",
-      "currency": "EUR",
-      "price": 6.16,
-      "pe": 5.18,
-      "peg": 2.71,
-      "roe": 8.32,
-      "grossMargin": 39.78,
-      "revenueGrowth": -7.1,
-      "rsi": 29,
-      "beta": 0.416,
-      "priceToBook": 0.51,
-      "buy": 4,
-      "hold": 7,
-      "sell": 2,
-      "target": 8.28
     },
     {
       "ticker": "SOF.BR",
