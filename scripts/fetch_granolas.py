@@ -110,13 +110,15 @@ def fetch_analyst(ticker):
 
         info = t.info or {}
         beta = info.get("beta")
+        pb   = info.get("priceToBook")
 
         return {
-            "buy":    buy,
-            "hold":   hold,
-            "sell":   sell,
-            "target": round(float(target), 2) if target else None,
-            "beta":   round(float(beta), 2)   if beta   else None,
+            "buy":          buy,
+            "hold":         hold,
+            "sell":         sell,
+            "target":       round(float(target), 2) if target else None,
+            "beta":         round(float(beta), 2)   if beta   else None,
+            "priceToBook":  round(float(pb), 2)     if _is_valid(pb) else None,
         }
     except Exception as e:
         print(f"yfinance analyst error [{ticker}]: {e}")
@@ -255,9 +257,11 @@ def main():
 
         price = yahoo.get("price") or quote.get("price") or base.get("price")
 
-        # Beta from yfinance analyst call; fall back to stored value
-        beta_new = analyst.get("beta") if analyst else None
+        # Beta + P/B from yfinance analyst call; fall back to FMP/stored value
+        beta_new = analyst.get("beta")         if analyst else None
+        pb_new   = analyst.get("priceToBook")  if analyst else None
         beta = beta_new if beta_new is not None else base.get("beta")
+        pb   = pb_new   if pb_new   is not None else get(ratios.get("priceToBookRatio"), "priceToBook")
 
         stocks.append({
             "ticker":        ticker,
@@ -265,7 +269,7 @@ def main():
             "price":         round(price, 2) if price else base.get("price"),
             "pe":            get(ratios.get("priceToEarningsRatio"),         "pe"),
             "peg":           get(ratios.get("priceToEarningsGrowthRatio"),   "peg"),
-            "priceToBook":   get(ratios.get("priceToBookRatio"),              "priceToBook"),
+            "priceToBook":   pb,
             "roe":           get(metrics.get("returnOnEquity"),               "roe",  100.0),
             "grossMargin":   get(ratios.get("grossProfitMargin"),             "grossMargin", 100.0),
             "revenueGrowth": get(growth.get("revenueGrowth"),                "revenueGrowth", 100.0),
