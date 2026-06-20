@@ -44,8 +44,15 @@ def fetch_url(url, headers=None):
         return json.loads(resp.read().decode())
 
 
+def _is_valid(v):
+    try:
+        import math
+        return v is not None and not math.isnan(float(v))
+    except Exception:
+        return False
+
 def calc_rsi(closes, period=14):
-    clean = [c for c in (closes or []) if c is not None]
+    clean = [c for c in (closes or []) if _is_valid(c)]
     if len(clean) < period + 1:
         return None
     changes = [clean[i + 1] - clean[i] for i in range(len(clean) - 1)]
@@ -91,9 +98,12 @@ def fetch_analyst(ticker):
             buy = hold = sell = None
         else:
             row  = recs.sort_index(ascending=False).iloc[0]
-            buy  = int(row.get("strongBuy", 0)) + int(row.get("buy", 0))
-            hold = int(row.get("hold", 0))
-            sell = int(row.get("sell", 0)) + int(row.get("strongSell", 0))
+            def _i(v):
+                try: return int(v) if _is_valid(v) else 0
+                except: return 0
+            buy  = _i(row.get("strongBuy")) + _i(row.get("buy"))
+            hold = _i(row.get("hold"))
+            sell = _i(row.get("sell")) + _i(row.get("strongSell"))
 
         apt    = t.analyst_price_targets or {}
         target = apt.get("mean")
@@ -188,13 +198,10 @@ def main():
 
     print(f"Run at {now.isoformat()} | FMP+analyst update: {do_fmp}")
 
-    # ── Yahoo Finance v8 (always) — parallel ──────────────────────────────────
+    # ── Yahoo Finance via yfinance (always) — sequential to avoid SQLite lock ──
     yahoo_results = {}
-    with ThreadPoolExecutor(max_workers=11) as ex:
-        futures = {ex.submit(fetch_yahoo, t): t for t in TICKERS}
-        for future in as_completed(futures):
-            r = future.result()
-            yahoo_results[r["ticker"]] = r
+    for ticker in TICKERS:
+        yahoo_results[ticker] = fetch_yahoo(ticker)
 
     # ── FMP + analyst (once per hour) — parallel ──────────────────────────────
     fmp_quotes    = {}
