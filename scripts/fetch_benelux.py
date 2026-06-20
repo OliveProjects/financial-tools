@@ -11,31 +11,34 @@ INDICES = {
         "SBMO.AS",  "ASRNL.AS", "EXOR.AS",  "GLPG.AS",  "TKWY.AS",
     ],
     "BEL20": [
-        "ABI.BR",   "AGS.BR",   "COLR.BR",  "DIE.BR",   "ENX.BR",
-        "GBL.BR",   "GLPG.BR",  "KBC.BR",   "MELE.BR",  "SOF.BR",
-        "SOLB.BR",  "UCB.BR",   "UMI.BR",   "WDP.BR",   "BPOST.BR",
-        "PROXB.BR", "TNET.BR",  "SYENS.BR",
+        "ABI.BR",   "AGS.BR",   "ACKB.BR",  "AED.BR",   "AZE.BR",
+        "APAM.BR",  "ARGX.BR",  "COLR.BR",  "DIE.BR",   "ELI.BR",
+        "GBLB.BR",  "GLPG.BR",  "KBC.BR",   "LOTB.BR",  "MELE.BR",
+        "MONT.BR",  "PROX.BR",  "SOF.BR",   "SOLB.BR",  "SYENS.BR",
+        "UCB.BR",   "UMI.BR",   "WDP.BR",
     ],
 }
 
 NAME_MAP = {
     # AEX25
-    "ASML.AS":"ASML",             "HEIA.AS":"Heineken",        "INGA.AS":"ING Group",
-    "AD.AS":"Ahold Delhaize",     "WKL.AS":"Wolters Kluwer",   "PRX.AS":"Prosus",
-    "NN.AS":"NN Group",           "KPN.AS":"KPN",              "AKZA.AS":"AkzoNobel",
-    "PHIA.AS":"Philips",          "ABN.AS":"ABN AMRO",         "RAND.AS":"Randstad",
-    "BESI.AS":"BE Semiconductor", "IMCD.AS":"IMCD",            "MT.AS":"ArcelorMittal",
-    "DSFIR.AS":"dsm-firmenich",   "AGN.AS":"Aegon",            "ADYEN.AS":"Adyen",
-    "URW.AS":"Unibail-Rodamco",   "LIGHT.AS":"Signify",        "SBMO.AS":"SBM Offshore",
-    "ASRNL.AS":"ASR Nederland",   "EXOR.AS":"Exor",            "GLPG.AS":"Galapagos",
+    "ASML.AS":"ASML",              "HEIA.AS":"Heineken",          "INGA.AS":"ING Group",
+    "AD.AS":"Ahold Delhaize",      "WKL.AS":"Wolters Kluwer",     "PRX.AS":"Prosus",
+    "NN.AS":"NN Group",            "KPN.AS":"KPN",                "AKZA.AS":"AkzoNobel",
+    "PHIA.AS":"Philips",           "ABN.AS":"ABN AMRO",           "RAND.AS":"Randstad",
+    "BESI.AS":"BE Semiconductor",  "IMCD.AS":"IMCD",              "MT.AS":"ArcelorMittal",
+    "DSFIR.AS":"dsm-firmenich",    "AGN.AS":"Aegon",              "ADYEN.AS":"Adyen",
+    "URW.AS":"Unibail-Rodamco",    "LIGHT.AS":"Signify",          "SBMO.AS":"SBM Offshore",
+    "ASRNL.AS":"ASR Nederland",    "EXOR.AS":"Exor",              "GLPG.AS":"Galapagos",
     "TKWY.AS":"Just Eat Takeaway",
     # BEL20
-    "ABI.BR":"AB InBev",          "AGS.BR":"Ageas",            "COLR.BR":"Colruyt",
-    "DIE.BR":"D'Ieteren",         "ENX.BR":"Euronext",         "GBL.BR":"GBL",
-    "GLPG.BR":"Galapagos",        "KBC.BR":"KBC",              "MELE.BR":"Melexis",
-    "SOF.BR":"Sofina",            "SOLB.BR":"Solvay",          "UCB.BR":"UCB",
-    "UMI.BR":"Umicore",           "WDP.BR":"WDP",              "BPOST.BR":"bpost",
-    "PROXB.BR":"Proximus",        "TNET.BR":"Telenet",         "SYENS.BR":"Syensqo",
+    "ABI.BR":"AB InBev",           "AGS.BR":"Ageas",              "ACKB.BR":"Ackermans & van Haaren",
+    "AED.BR":"Aedifica",           "AZE.BR":"Azelis",             "APAM.BR":"Aperam",
+    "ARGX.BR":"argenx",            "COLR.BR":"Colruyt",           "DIE.BR":"D'Ieteren",
+    "ELI.BR":"Elia Group",         "GBLB.BR":"GBL",               "GLPG.BR":"Galapagos",
+    "KBC.BR":"KBC",                "LOTB.BR":"Lotus Bakeries",    "MELE.BR":"Melexis",
+    "MONT.BR":"Montea",            "PROX.BR":"Proximus",          "SOF.BR":"Sofina",
+    "SOLB.BR":"Solvay",            "SYENS.BR":"Syensqo",          "UCB.BR":"UCB",
+    "UMI.BR":"Umicore",            "WDP.BR":"WDP",
 }
 
 

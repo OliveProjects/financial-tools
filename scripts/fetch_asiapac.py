@@ -7,7 +7,9 @@ INDICES = {
         "D05.SI",  "O39.SI",  "U11.SI",  "Z74.SI",  "C6L.SI",
         "BN4.SI",  "J36.SI",  "F34.SI",  "C52.SI",  "S63.SI",
         "V03.SI",  "ME8U.SI", "C38U.SI", "9CI.SI",  "G13.SI",
-        "SGX.SI",  "A17U.SI", "U96.SI",  "Y92.SI",  "S58.SI",
+        "S68.SI",  "A17U.SI", "U96.SI",  "Y92.SI",  "S58.SI",
+        "BS6.SI",  "BUOU.SI", "C09.SI",  "D01.SI",  "H78.SI",
+        "J69U.SI", "AJBU.SI", "M44U.SI", "N2IU.SI", "U14.SI",
     ],
     "ASX20": [
         "BHP.AX",  "CBA.AX",  "CSL.AX",  "NAB.AX",  "WBC.AX",
@@ -25,13 +27,17 @@ INDICES = {
 
 NAME_MAP = {
     # STI30 (Singapore)
-    "D05.SI":"DBS Group",          "O39.SI":"OCBC Bank",          "U11.SI":"UOB",
-    "Z74.SI":"Singtel",            "C6L.SI":"Singapore Airlines",  "BN4.SI":"Keppel",
-    "J36.SI":"Jardine Matheson",   "F34.SI":"Wilmar",             "C52.SI":"ComfortDelGro",
-    "S63.SI":"ST Engineering",     "V03.SI":"Venture Corp",        "ME8U.SI":"Mapletree Log Trust",
-    "C38U.SI":"CapitaLand Int. CT","9CI.SI":"CapitaLand Investment","G13.SI":"Genting Singapore",
-    "SGX.SI":"SGX",               "A17U.SI":"Ascendas REIT",      "U96.SI":"Sembcorp Industries",
-    "Y92.SI":"Thai Beverage",      "S58.SI":"SATS",
+    "D05.SI":"DBS Group",           "O39.SI":"OCBC Bank",           "U11.SI":"UOB",
+    "Z74.SI":"Singtel",             "C6L.SI":"Singapore Airlines",  "BN4.SI":"Keppel",
+    "J36.SI":"Jardine Matheson",    "F34.SI":"Wilmar",              "C52.SI":"ComfortDelGro",
+    "S63.SI":"ST Engineering",      "V03.SI":"Venture Corp",         "ME8U.SI":"Mapletree Log Trust",
+    "C38U.SI":"CapitaLand Int. CT", "9CI.SI":"CapitaLand Investment","G13.SI":"Genting Singapore",
+    "S68.SI":"Singapore Exchange",  "A17U.SI":"Ascendas REIT",      "U96.SI":"Sembcorp Industries",
+    "Y92.SI":"Thai Beverage",       "S58.SI":"SATS",
+    "BS6.SI":"Yangzijiang Shipbuilding","BUOU.SI":"Frasers L&CT",   "C09.SI":"City Developments",
+    "D01.SI":"DFI Retail Group",    "H78.SI":"Hongkong Land",       "J69U.SI":"Frasers Centrepoint Trust",
+    "AJBU.SI":"Keppel DC REIT",     "M44U.SI":"Mapletree Pan Asia CT","N2IU.SI":"Mapletree Industrial Trust",
+    "U14.SI":"UOL Group",
     # ASX20 (Australia)
     "BHP.AX":"BHP",               "CBA.AX":"Commonwealth Bank",   "CSL.AX":"CSL",
     "NAB.AX":"NAB",               "WBC.AX":"Westpac",            "ANZ.AX":"ANZ",
