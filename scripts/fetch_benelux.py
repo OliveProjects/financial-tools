@@ -13,9 +13,9 @@ INDICES = {
     "BEL20": [
         "ABI.BR",   "AGS.BR",   "ACKB.BR",  "AED.BR",   "AZE.BR",
         "APAM.BR",  "ARGX.BR",  "COLR.BR",  "DIE.BR",   "ELI.BR",
-        "GBLB.BR",  "GLPG.BR",  "KBC.BR",   "LOTB.BR",  "MELE.BR",
-        "MONT.BR",  "PROX.BR",  "SOF.BR",   "SOLB.BR",  "SYENS.BR",
-        "UCB.BR",   "UMI.BR",   "WDP.BR",
+        "GBLB.BR",  "KBC.BR",   "LOTB.BR",  "MELE.BR",  "MONT.BR",
+        "SOF.BR",   "SOLB.BR",  "SYENS.BR", "UCB.BR",   "UMI.BR",
+        "WDP.BR",
     ],
 }
 
@@ -34,11 +34,10 @@ NAME_MAP = {
     "ABI.BR":"AB InBev",           "AGS.BR":"Ageas",              "ACKB.BR":"Ackermans & van Haaren",
     "AED.BR":"Aedifica",           "AZE.BR":"Azelis",             "APAM.BR":"Aperam",
     "ARGX.BR":"argenx",            "COLR.BR":"Colruyt",           "DIE.BR":"D'Ieteren",
-    "ELI.BR":"Elia Group",         "GBLB.BR":"GBL",               "GLPG.BR":"Galapagos",
-    "KBC.BR":"KBC",                "LOTB.BR":"Lotus Bakeries",    "MELE.BR":"Melexis",
-    "MONT.BR":"Montea",            "PROX.BR":"Proximus",          "SOF.BR":"Sofina",
-    "SOLB.BR":"Solvay",            "SYENS.BR":"Syensqo",          "UCB.BR":"UCB",
-    "UMI.BR":"Umicore",            "WDP.BR":"WDP",
+    "ELI.BR":"Elia Group",         "GBLB.BR":"GBL",               "KBC.BR":"KBC",
+    "LOTB.BR":"Lotus Bakeries",    "MELE.BR":"Melexis",           "MONT.BR":"Montea",
+    "SOF.BR":"Sofina",             "SOLB.BR":"Solvay",            "SYENS.BR":"Syensqo",
+    "UCB.BR":"UCB",                "UMI.BR":"Umicore",            "WDP.BR":"WDP",
 }
 
 
