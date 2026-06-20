@@ -5,7 +5,7 @@ on:
     # Every 15 min, 13:00–21:00 UTC on weekdays
     # Covers 9 AM–5 PM ET (both EDT/UTC-4 and EST/UTC-5)
     - cron: '*/15 13-21 * * 1-5'
-  workflow_dispatch: # Allow manual trigger from GitHub UI
+  workflow_dispatch: # Manual trigger
 
 permissions:
   contents: write
