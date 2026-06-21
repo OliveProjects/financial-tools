@@ -31,11 +31,12 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          cp data/benelux.json /tmp/benelux_fresh.json
+          git checkout -- data/benelux.json
+          git pull --rebase origin main
+          cp /tmp/benelux_fresh.json data/benelux.json
           git add data/benelux.json
           git diff --cached --quiet && echo "No changes" || (
-            git restore --staged data/benelux.json &&
-            git pull --rebase origin main &&
-            git add data/benelux.json &&
             git commit -m "chore: update benelux data [skip ci]" &&
             git push
           )

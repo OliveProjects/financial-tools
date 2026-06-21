@@ -31,11 +31,12 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          cp data/dach.json /tmp/dach_fresh.json
+          git checkout -- data/dach.json
+          git pull --rebase origin main
+          cp /tmp/dach_fresh.json data/dach.json
           git add data/dach.json
           git diff --cached --quiet && echo "No changes" || (
-            git restore --staged data/dach.json &&
-            git pull --rebase origin main &&
-            git add data/dach.json &&
             git commit -m "chore: update dach data [skip ci]" &&
             git push
           )

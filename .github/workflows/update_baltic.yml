@@ -31,11 +31,12 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          cp data/baltic.json /tmp/baltic_fresh.json
+          git checkout -- data/baltic.json
+          git pull --rebase origin main
+          cp /tmp/baltic_fresh.json data/baltic.json
           git add data/baltic.json
           git diff --cached --quiet && echo "No changes" || (
-            git restore --staged data/baltic.json &&
-            git pull --rebase origin main &&
-            git add data/baltic.json &&
             git commit -m "chore: update baltic data [skip ci]" &&
             git push
           )
