@@ -1,6 +1,6 @@
 {
-  "lastYahooUpdate": "2026-06-23T16:32:47Z",
-  "generatedAt": "2026-06-23T16:32:47Z",
+  "lastYahooUpdate": "2026-06-23T18:33:10Z",
+  "generatedAt": "2026-06-23T18:33:10Z",
   "stocks": [
     {
       "ticker": "SAP.DE",
@@ -528,7 +528,7 @@
       "revenueGrowth": 7.7,
       "rsi": 42,
       "beta": 0.422,
-      "priceToBook": 10.8,
+      "priceToBook": 10.17,
       "buy": 15,
       "hold": 6,
       "sell": 0,
@@ -817,7 +817,7 @@
       "buy": 9,
       "hold": 9,
       "sell": 4,
-      "target": 125.45
+      "target": 125.51
     },
     {
       "ticker": "ABBN.SW",
@@ -836,7 +836,7 @@
       "buy": 7,
       "hold": 15,
       "sell": 5,
-      "target": 75.28
+      "target": 75.32
     },
     {
       "ticker": "UBSG.SW",
@@ -893,7 +893,7 @@
       "buy": 6,
       "hold": 5,
       "sell": 0,
-      "target": 93.51
+      "target": 93.56
     },
     {
       "ticker": "GEBN.SW",
@@ -925,7 +925,7 @@
       "roe": 76.6,
       "grossMargin": 44.32,
       "revenueGrowth": 1.9,
-      "rsi": 58,
+      "rsi": 59,
       "beta": 0.574,
       "priceToBook": 19.39,
       "buy": 6,
@@ -969,7 +969,7 @@
       "buy": 0,
       "hold": 10,
       "sell": 6,
-      "target": 129.68
+      "target": 129.75
     },
     {
       "ticker": "SOON.SW",
@@ -1001,7 +1001,7 @@
       "roe": 10.4,
       "grossMargin": 58.13,
       "revenueGrowth": -4.1,
-      "rsi": 40,
+      "rsi": 39,
       "beta": 0.396,
       "priceToBook": 2.96,
       "buy": 3,
@@ -1045,7 +1045,7 @@
       "buy": 16,
       "hold": 10,
       "sell": 0,
-      "target": 184.96
+      "target": 185.04
     },
     {
       "ticker": "STMN.SW",
@@ -1058,7 +1058,7 @@
       "roe": 17.01,
       "grossMargin": 70.1,
       "revenueGrowth": 2.2,
-      "rsi": 66,
+      "rsi": 68,
       "beta": 1.385,
       "priceToBook": 7.58,
       "buy": 10,
@@ -1077,7 +1077,7 @@
       "roe": 54.8,
       "grossMargin": 68.07,
       "revenueGrowth": 20.1,
-      "rsi": 24,
+      "rsi": 25,
       "beta": 0.934,
       "priceToBook": 7.71,
       "buy": 8,
