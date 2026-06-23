@@ -1,8 +1,8 @@
 {
-  "lastFmpUpdate": "2026-06-23T20:23:13Z",
-  "lastYahooUpdate": "2026-06-23T20:23:13Z",
-  "lastAnalystUpdate": "2026-06-23T20:23:13Z",
-  "generatedAt": "2026-06-23T20:23:13Z",
+  "lastFmpUpdate": "2026-06-23T21:58:08Z",
+  "lastYahooUpdate": "2026-06-23T21:58:08Z",
+  "lastAnalystUpdate": "2026-06-23T21:58:08Z",
+  "generatedAt": "2026-06-23T21:58:08Z",
   "stocks": [
     {
       "ticker": "GSK",
@@ -53,7 +53,7 @@
       "buy": 37,
       "hold": 6,
       "sell": 1,
-      "target": 1744.97
+      "target": 1745.76
     },
     {
       "ticker": "NSRGY",
@@ -104,7 +104,7 @@
       "buy": 5,
       "hold": 9,
       "sell": 0,
-      "target": 46.82
+      "target": 46.84
     },
     {
       "ticker": "LRLCY",
