@@ -1,6 +1,6 @@
 {
-  "lastYahooUpdate": "2026-06-23T16:15:10Z",
-  "generatedAt": "2026-06-23T16:15:10Z",
+  "lastYahooUpdate": "2026-06-23T18:15:36Z",
+  "generatedAt": "2026-06-23T18:15:36Z",
   "stocks": [
     {
       "ticker": "ATCO-B.ST",
@@ -13,7 +13,7 @@
       "roe": 22.42,
       "grossMargin": 42.63,
       "revenueGrowth": -5.1,
-      "rsi": 62,
+      "rsi": 61,
       "beta": 1.069,
       "priceToBook": 6.77,
       "buy": 0,
@@ -32,7 +32,7 @@
       "roe": 21.2,
       "grossMargin": 86.77,
       "revenueGrowth": 357.3,
-      "rsi": 64,
+      "rsi": 61,
       "beta": 0.776,
       "priceToBook": 1.21,
       "buy": 3,
@@ -51,13 +51,13 @@
       "roe": 15.73,
       "grossMargin": 0.0,
       "revenueGrowth": 1.4,
-      "rsi": 67,
+      "rsi": 62,
       "beta": 0.626,
       "priceToBook": 20.53,
       "buy": 5,
       "hold": 2,
       "sell": 2,
-      "target": 189.13
+      "target": 189.33
     },
     {
       "ticker": "VOLV-B.ST",
@@ -89,7 +89,7 @@
       "roe": 13.63,
       "grossMargin": 0.0,
       "revenueGrowth": -6.8,
-      "rsi": 65,
+      "rsi": 63,
       "beta": 0.413,
       "priceToBook": 1.75,
       "buy": 2,
@@ -108,7 +108,7 @@
       "roe": 15.97,
       "grossMargin": 0.0,
       "revenueGrowth": -3.2,
-      "rsi": 72,
+      "rsi": 68,
       "beta": 0.553,
       "priceToBook": 1.77,
       "buy": 2,
@@ -146,7 +146,7 @@
       "roe": 13.49,
       "grossMargin": 0.0,
       "revenueGrowth": -9.3,
-      "rsi": 74,
+      "rsi": 71,
       "beta": 0.498,
       "priceToBook": 1.62,
       "buy": 1,
@@ -184,13 +184,13 @@
       "roe": 33.55,
       "grossMargin": 40.37,
       "revenueGrowth": 18.3,
-      "rsi": 64,
+      "rsi": 61,
       "beta": 1.023,
       "priceToBook": 126.6,
       "buy": 3,
       "hold": 1,
       "sell": 0,
-      "target": 1057.61
+      "target": 1058.53
     },
     {
       "ticker": "ASSA-B.ST",
@@ -203,7 +203,7 @@
       "roe": 15.04,
       "grossMargin": 43.12,
       "revenueGrowth": -5.8,
-      "rsi": 44,
+      "rsi": 43,
       "beta": 0.843,
       "priceToBook": 3.38,
       "buy": 10,
@@ -247,7 +247,7 @@
       "buy": 2,
       "hold": 6,
       "sell": 7,
-      "target": 683.18
+      "target": 683.79
     },
     {
       "ticker": "SAAB-B.ST",
@@ -260,7 +260,7 @@
       "roe": 15.68,
       "grossMargin": 21.72,
       "revenueGrowth": 21.4,
-      "rsi": 40,
+      "rsi": 41,
       "beta": 0.019,
       "priceToBook": 6.08,
       "buy": 1,
@@ -279,7 +279,7 @@
       "roe": 6.83,
       "grossMargin": 27.21,
       "revenueGrowth": -8.7,
-      "rsi": 58,
+      "rsi": 57,
       "beta": 0.852,
       "priceToBook": 1.98,
       "buy": 7,
@@ -298,7 +298,7 @@
       "roe": 18.3,
       "grossMargin": 36.62,
       "revenueGrowth": -3.3,
-      "rsi": 55,
+      "rsi": 54,
       "beta": 0.796,
       "priceToBook": 4.83,
       "buy": 7,
@@ -317,7 +317,7 @@
       "roe": 7.78,
       "grossMargin": 31.79,
       "revenueGrowth": -0.2,
-      "rsi": 31,
+      "rsi": 32,
       "beta": 0.919,
       "priceToBook": 2.21,
       "buy": 6,
@@ -469,7 +469,7 @@
       "roe": 7.77,
       "grossMargin": 13.71,
       "revenueGrowth": -0.7,
-      "rsi": 54,
+      "rsi": 53,
       "beta": 1.237,
       "priceToBook": 1.36,
       "buy": 7,
@@ -589,7 +589,7 @@
       "buy": 3,
       "hold": 11,
       "sell": 10,
-      "target": 365.12
+      "target": 365.34
     },
     {
       "ticker": "DNB.OL",
@@ -627,7 +627,7 @@
       "buy": 7,
       "hold": 3,
       "sell": 0,
-      "target": 245.05
+      "target": 245.22
     },
     {
       "ticker": "TEL.OL",
@@ -756,11 +756,11 @@
       "revenueGrowth": 17.0,
       "rsi": 58,
       "beta": 0.599,
-      "priceToBook": 2.37,
+      "priceToBook": 2.38,
       "buy": 8,
       "hold": 3,
       "sell": 3,
-      "target": 348.24
+      "target": 348.5
     },
     {
       "ticker": "SALM.OL",
@@ -836,7 +836,7 @@
       "buy": 6,
       "hold": 5,
       "sell": 1,
-      "target": 13.78
+      "target": 13.79
     },
     {
       "ticker": "AKER.OL",
@@ -893,7 +893,7 @@
       "buy": 4,
       "hold": 3,
       "sell": 1,
-      "target": 509.41
+      "target": 509.68
     },
     {
       "ticker": "BWLPG.OL",
@@ -912,7 +912,7 @@
       "buy": 2,
       "hold": 1,
       "sell": 1,
-      "target": 223.14
+      "target": 223.3
     },
     {
       "ticker": "FRO.OL",
@@ -925,13 +925,13 @@
       "roe": 35.01,
       "grossMargin": 55.83,
       "revenueGrowth": 66.9,
-      "rsi": 80,
+      "rsi": 81,
       "beta": 0.022,
       "priceToBook": 3.33,
       "buy": 4,
       "hold": 1,
       "sell": 1,
-      "target": 365.41
+      "target": 365.69
     },
     {
       "ticker": "NSKOG.OL",
@@ -1041,11 +1041,11 @@
       "revenueGrowth": -6.4,
       "rsi": 60,
       "beta": 0.165,
-      "priceToBook": 1.29,
+      "priceToBook": 1.26,
       "buy": 0,
       "hold": 1,
       "sell": 2,
-      "target": 23.9
+      "target": 23.91
     },
     {
       "ticker": "NOVO-B.CO",
@@ -1058,7 +1058,7 @@
       "roe": 71.4,
       "grossMargin": 83.2,
       "revenueGrowth": 24.0,
-      "rsi": 64,
+      "rsi": 65,
       "beta": 0.349,
       "priceToBook": 6.73,
       "buy": 6,
@@ -1083,7 +1083,7 @@
       "buy": 1,
       "hold": 7,
       "sell": 11,
-      "target": 13978.13
+      "target": 13980.49
     },
     {
       "ticker": "DSV.CO",
@@ -1096,7 +1096,7 @@
       "roe": 6.15,
       "grossMargin": 27.14,
       "revenueGrowth": 68.9,
-      "rsi": 44,
+      "rsi": 45,
       "beta": 0.974,
       "priceToBook": 3.0,
       "buy": 17,
@@ -1134,7 +1134,7 @@
       "roe": 14.14,
       "grossMargin": 67.46,
       "revenueGrowth": 2.2,
-      "rsi": 38,
+      "rsi": 39,
       "beta": 0.517,
       "priceToBook": 6.59,
       "buy": 4,
@@ -1153,7 +1153,7 @@
       "roe": 14.96,
       "grossMargin": 93.31,
       "revenueGrowth": 25.3,
-      "rsi": 57,
+      "rsi": 58,
       "beta": 0.681,
       "priceToBook": 2.83,
       "buy": 10,
@@ -1229,7 +1229,7 @@
       "roe": 23.2,
       "grossMargin": 13.5,
       "revenueGrowth": 14.4,
-      "rsi": 47,
+      "rsi": 46,
       "beta": 0.974,
       "priceToBook": 6.14,
       "buy": 14,
@@ -1324,7 +1324,7 @@
       "roe": 9.68,
       "grossMargin": 48.12,
       "revenueGrowth": -21.4,
-      "rsi": 37,
+      "rsi": 39,
       "beta": 0.964,
       "priceToBook": 1.07,
       "buy": 3,
@@ -1362,13 +1362,13 @@
       "roe": 0.13,
       "grossMargin": 67.47,
       "revenueGrowth": 0.0,
-      "rsi": 62,
+      "rsi": 61,
       "beta": 1.507,
       "priceToBook": 2.15,
       "buy": 8,
       "hold": 6,
       "sell": 1,
-      "target": 230.44
+      "target": 230.43
     },
     {
       "ticker": "ISS.CO",
@@ -1419,7 +1419,7 @@
       "roe": 10.29,
       "grossMargin": 0.0,
       "revenueGrowth": -8.1,
-      "rsi": 71,
+      "rsi": 67,
       "beta": 0.348,
       "priceToBook": 1.19,
       "buy": 2,
@@ -1457,7 +1457,7 @@
       "roe": -2.02,
       "grossMargin": 16.8,
       "revenueGrowth": -2.5,
-      "rsi": 31,
+      "rsi": 32,
       "beta": 1.061,
       "priceToBook": 0.5,
       "buy": 1,
@@ -1571,7 +1571,7 @@
       "roe": 5.18,
       "grossMargin": 11.26,
       "revenueGrowth": -5.3,
-      "rsi": 32,
+      "rsi": 33,
       "beta": 0.215,
       "priceToBook": 1.27,
       "buy": 6,
@@ -1685,7 +1685,7 @@
       "roe": 25.17,
       "grossMargin": 44.54,
       "revenueGrowth": -1.3,
-      "rsi": 26,
+      "rsi": 27,
       "beta": 0.421,
       "priceToBook": 4.52,
       "buy": 5,
@@ -1761,7 +1761,7 @@
       "roe": 9.16,
       "grossMargin": 40.44,
       "revenueGrowth": 21.3,
-      "rsi": 41,
+      "rsi": 42,
       "beta": 0.096,
       "priceToBook": 2.16,
       "buy": 1,
@@ -1856,7 +1856,7 @@
       "roe": 7.96,
       "grossMargin": 39.02,
       "revenueGrowth": 25.2,
-      "rsi": 43,
+      "rsi": 44,
       "beta": 0.479,
       "priceToBook": 1.7,
       "buy": 1,
