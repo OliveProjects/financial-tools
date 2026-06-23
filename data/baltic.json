@@ -1,6 +1,6 @@
 {
-  "lastYahooUpdate": "2026-06-23T10:55:56Z",
-  "generatedAt": "2026-06-23T10:55:56Z",
+  "lastYahooUpdate": "2026-06-23T14:30:09Z",
+  "generatedAt": "2026-06-23T14:30:09Z",
   "stocks": [
     {
       "ticker": "TAL1T.TL",
@@ -254,15 +254,15 @@
       "name": "Telia Lietuva",
       "index": "OMXV",
       "currency": "EUR",
-      "price": 2.15,
-      "pe": 13.44,
+      "price": 2.17,
+      "pe": 13.56,
       "peg": 0.77,
       "roe": 22.38,
       "grossMargin": 51.13,
       "revenueGrowth": 7.6,
-      "rsi": 61,
+      "rsi": 67,
       "beta": 0.165,
-      "priceToBook": 2.93,
+      "priceToBook": 2.96,
       "buy": 0,
       "hold": 0,
       "sell": 0,
