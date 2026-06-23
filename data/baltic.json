@@ -1,6 +1,6 @@
 {
-  "lastYahooUpdate": "2026-06-23T17:45:42Z",
-  "generatedAt": "2026-06-23T17:45:42Z",
+  "lastYahooUpdate": "2026-06-23T21:24:55Z",
+  "generatedAt": "2026-06-23T21:24:55Z",
   "stocks": [
     {
       "ticker": "TAL1T.TL",
@@ -222,7 +222,7 @@
       "roe": 5.97,
       "grossMargin": 31.02,
       "revenueGrowth": 21.5,
-      "rsi": 56,
+      "rsi": 59,
       "beta": 0.136,
       "priceToBook": 0.6,
       "buy": 2,
@@ -241,7 +241,7 @@
       "roe": 24.06,
       "grossMargin": 43.9,
       "revenueGrowth": 8.6,
-      "rsi": 60,
+      "rsi": 62,
       "beta": 0.184,
       "priceToBook": 3.01,
       "buy": 0,
@@ -260,7 +260,7 @@
       "roe": 22.38,
       "grossMargin": 51.13,
       "revenueGrowth": 7.6,
-      "rsi": 67,
+      "rsi": 53,
       "beta": 0.165,
       "priceToBook": 2.96,
       "buy": 0,
