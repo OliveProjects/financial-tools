@@ -1,8 +1,8 @@
 {
-  "lastFmpUpdate": "2026-06-23T20:05:49Z",
-  "lastYahooUpdate": "2026-06-23T20:05:49Z",
-  "lastAnalystUpdate": "2026-06-23T20:05:49Z",
-  "generatedAt": "2026-06-23T20:05:49Z",
+  "lastFmpUpdate": "2026-06-23T21:51:19Z",
+  "lastYahooUpdate": "2026-06-23T21:51:19Z",
+  "lastAnalystUpdate": "2026-06-23T21:51:19Z",
+  "generatedAt": "2026-06-23T21:51:19Z",
   "stocks": [
     {
       "ticker": "MSFT",
@@ -41,10 +41,10 @@
     {
       "ticker": "NVDA",
       "name": "NVIDIA",
-      "price": 200.0,
+      "price": 200.04,
       "pe": 37.8307,
       "peg": 0.5733,
-      "priceToBook": 24.78,
+      "priceToBook": 24.79,
       "roe": 76.3333,
       "grossMargin": 71.0681,
       "revenueGrowth": 65.4735,
@@ -75,7 +75,7 @@
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
-      "price": 346.09,
+      "price": 346.13,
       "pe": 28.6893,
       "peg": 0.839,
       "priceToBook": 8.76,
