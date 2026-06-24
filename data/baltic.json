@@ -1,6 +1,6 @@
 {
-  "lastYahooUpdate": "2026-06-24T10:41:59Z",
-  "generatedAt": "2026-06-24T10:41:59Z",
+  "lastYahooUpdate": "2026-06-24T14:08:52Z",
+  "generatedAt": "2026-06-24T14:08:52Z",
   "stocks": [
     {
       "ticker": "TAL1T.TL",
@@ -217,7 +217,7 @@
       "index": "OMXV",
       "currency": "EUR",
       "price": 21.3,
-      "pe": 10.05,
+      "pe": 10.09,
       "peg": null,
       "roe": 5.97,
       "grossMargin": 31.02,
