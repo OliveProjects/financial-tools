@@ -1,6 +1,6 @@
 {
-  "lastYahooUpdate": "2026-06-23T21:24:55Z",
-  "generatedAt": "2026-06-23T21:24:55Z",
+  "lastYahooUpdate": "2026-06-24T02:28:38Z",
+  "generatedAt": "2026-06-24T02:28:38Z",
   "stocks": [
     {
       "ticker": "TAL1T.TL",
@@ -216,7 +216,7 @@
       "name": "Ignitis Group",
       "index": "OMXV",
       "currency": "EUR",
-      "price": 21.3,
+      "price": 21.35,
       "pe": 10.09,
       "peg": null,
       "roe": 5.97,
@@ -235,7 +235,7 @@
       "name": "Apranga",
       "index": "OMXV",
       "currency": "EUR",
-      "price": 3.8,
+      "price": 3.81,
       "pe": 12.67,
       "peg": null,
       "roe": 24.06,
@@ -254,7 +254,7 @@
       "name": "Telia Lietuva",
       "index": "OMXV",
       "currency": "EUR",
-      "price": 2.17,
+      "price": 2.13,
       "pe": 13.56,
       "peg": 0.77,
       "roe": 22.38,
