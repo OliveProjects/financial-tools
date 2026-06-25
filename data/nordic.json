@@ -1,6 +1,6 @@
 {
-  "lastYahooUpdate": "2026-06-25T15:45:56Z",
-  "generatedAt": "2026-06-25T15:45:56Z",
+  "lastYahooUpdate": "2026-06-25T17:36:39Z",
+  "generatedAt": "2026-06-25T17:36:39Z",
   "stocks": [
     {
       "ticker": "ATCO-B.ST",
@@ -47,7 +47,7 @@
       "currency": "SEK",
       "price": 179.35,
       "pe": 11.89,
-      "peg": 11.22,
+      "peg": 10.84,
       "roe": 15.73,
       "grossMargin": 0.0,
       "revenueGrowth": 1.4,
@@ -57,7 +57,7 @@
       "buy": 5,
       "hold": 2,
       "sell": 2,
-      "target": 188.85
+      "target": 189.03
     },
     {
       "ticker": "VOLV-B.ST",
@@ -66,7 +66,7 @@
       "currency": "SEK",
       "price": 329.1,
       "pe": 20.37,
-      "peg": 1.36,
+      "peg": 1.35,
       "roe": 16.95,
       "grossMargin": 23.53,
       "revenueGrowth": -9.1,
@@ -76,7 +76,7 @@
       "buy": 9,
       "hold": 8,
       "sell": 3,
-      "target": 339.88
+      "target": 341.69
     },
     {
       "ticker": "SEB-A.ST",
@@ -85,7 +85,7 @@
       "currency": "SEK",
       "price": 190.25,
       "pe": 12.37,
-      "peg": 2.04,
+      "peg": 1.98,
       "roe": 13.63,
       "grossMargin": 0.0,
       "revenueGrowth": -6.8,
@@ -95,7 +95,7 @@
       "buy": 2,
       "hold": 11,
       "sell": 3,
-      "target": 193.94
+      "target": 193.69
     },
     {
       "ticker": "SWED-A.ST",
@@ -104,7 +104,7 @@
       "currency": "SEK",
       "price": 356.5,
       "pe": 12.64,
-      "peg": 7.04,
+      "peg": 6.89,
       "roe": 15.97,
       "grossMargin": 0.0,
       "revenueGrowth": -3.2,
@@ -114,7 +114,7 @@
       "buy": 2,
       "hold": 8,
       "sell": 5,
-      "target": 344.69
+      "target": 344.81
     },
     {
       "ticker": "ERIC-B.ST",
@@ -161,7 +161,7 @@
       "currency": "SEK",
       "price": 396.5,
       "pe": 33.49,
-      "peg": 2.85,
+      "peg": 2.72,
       "roe": 15.35,
       "grossMargin": 40.07,
       "revenueGrowth": 4.7,
@@ -190,7 +190,7 @@
       "buy": 3,
       "hold": 1,
       "sell": 0,
-      "target": 1055.68
+      "target": 1057.45
     },
     {
       "ticker": "ASSA-B.ST",
@@ -247,7 +247,7 @@
       "buy": 2,
       "hold": 6,
       "sell": 7,
-      "target": 682.04
+      "target": 682.74
     },
     {
       "ticker": "SAAB-B.ST",
@@ -256,7 +256,7 @@
       "currency": "SEK",
       "price": 489.35,
       "pe": 40.85,
-      "peg": 1.65,
+      "peg": 1.61,
       "roe": 15.68,
       "grossMargin": 21.72,
       "revenueGrowth": 21.4,
@@ -266,7 +266,7 @@
       "buy": 1,
       "hold": 3,
       "sell": 7,
-      "target": 574.17
+      "target": 571.67
     },
     {
       "ticker": "SKF-B.ST",
@@ -294,7 +294,7 @@
       "currency": "SEK",
       "price": 564.0,
       "pe": 28.51,
-      "peg": 3.23,
+      "peg": 3.21,
       "roe": 18.3,
       "grossMargin": 36.62,
       "revenueGrowth": -3.3,
@@ -304,7 +304,7 @@
       "buy": 7,
       "hold": 6,
       "sell": 3,
-      "target": 547.29
+      "target": 550.24
     },
     {
       "ticker": "NIBE-B.ST",
@@ -408,7 +408,7 @@
       "currency": "SEK",
       "price": 199.85,
       "pe": 23.1,
-      "peg": 1.53,
+      "peg": 1.55,
       "roe": 7.68,
       "grossMargin": 47.42,
       "revenueGrowth": -10.5,
@@ -437,7 +437,7 @@
       "buy": 2,
       "hold": 11,
       "sell": 0,
-      "target": 114.71
+      "target": 114.43
     },
     {
       "ticker": "TELIA.ST",
@@ -513,7 +513,7 @@
       "buy": 1,
       "hold": 4,
       "sell": 0,
-      "target": 50.25
+      "target": 48.0
     },
     {
       "ticker": "LIFCO-B.ST",
@@ -589,7 +589,7 @@
       "buy": 3,
       "hold": 11,
       "sell": 10,
-      "target": 367.57
+      "target": 368.0
     },
     {
       "ticker": "DNB.OL",
@@ -627,7 +627,7 @@
       "buy": 7,
       "hold": 3,
       "sell": 0,
-      "target": 246.45
+      "target": 246.61
     },
     {
       "ticker": "TEL.OL",
@@ -636,7 +636,7 @@
       "currency": "NOK",
       "price": 143.9,
       "pe": 11.72,
-      "peg": 1.4,
+      "peg": 1.39,
       "roe": 22.51,
       "grossMargin": 65.23,
       "revenueGrowth": -1.4,
@@ -646,7 +646,7 @@
       "buy": 8,
       "hold": 8,
       "sell": 1,
-      "target": 167.25
+      "target": 167.0
     },
     {
       "ticker": "NHY.OL",
@@ -722,7 +722,7 @@
       "buy": 4,
       "hold": 9,
       "sell": 5,
-      "target": 319.0
+      "target": 320.47
     },
     {
       "ticker": "KOG.OL",
@@ -731,7 +731,7 @@
       "currency": "NOK",
       "price": 285.5,
       "pe": 52.48,
-      "peg": 2.22,
+      "peg": 2.2,
       "roe": 20.78,
       "grossMargin": 57.73,
       "revenueGrowth": 27.1,
@@ -760,7 +760,7 @@
       "buy": 8,
       "hold": 3,
       "sell": 3,
-      "target": 350.26
+      "target": 350.67
     },
     {
       "ticker": "SALM.OL",
@@ -836,7 +836,7 @@
       "buy": 6,
       "hold": 5,
       "sell": 1,
-      "target": 13.8
+      "target": 13.81
     },
     {
       "ticker": "AKER.OL",
@@ -893,7 +893,7 @@
       "buy": 4,
       "hold": 3,
       "sell": 1,
-      "target": 512.25
+      "target": 512.59
     },
     {
       "ticker": "BWLPG.OL",
@@ -912,7 +912,7 @@
       "buy": 2,
       "hold": 1,
       "sell": 1,
-      "target": 224.43
+      "target": 224.71
     },
     {
       "ticker": "FRO.OL",
@@ -931,7 +931,7 @@
       "buy": 4,
       "hold": 1,
       "sell": 1,
-      "target": 367.52
+      "target": 367.97
     },
     {
       "ticker": "NSKOG.OL",
@@ -1045,7 +1045,7 @@
       "buy": 0,
       "hold": 1,
       "sell": 2,
-      "target": 24.03
+      "target": 24.06
     },
     {
       "ticker": "NOVO-B.CO",
@@ -1083,7 +1083,7 @@
       "buy": 1,
       "hold": 7,
       "sell": 11,
-      "target": 13978.9
+      "target": 13987.62
     },
     {
       "ticker": "DSV.CO",
@@ -1092,7 +1092,7 @@
       "currency": "DKK",
       "price": 1593.5,
       "pe": 52.44,
-      "peg": 0.98,
+      "peg": 0.99,
       "roe": 6.15,
       "grossMargin": 27.14,
       "revenueGrowth": 68.9,
@@ -1121,7 +1121,7 @@
       "buy": 16,
       "hold": 4,
       "sell": 2,
-      "target": 1047.0
+      "target": 1050.64
     },
     {
       "ticker": "COLO-B.CO",
@@ -1149,7 +1149,7 @@
       "currency": "DKK",
       "price": 1721.0,
       "pe": 19.94,
-      "peg": 1.7,
+      "peg": 1.75,
       "roe": 14.96,
       "grossMargin": 93.31,
       "revenueGrowth": 25.3,
@@ -1225,7 +1225,7 @@
       "currency": "DKK",
       "price": 170.15,
       "pe": 26.75,
-      "peg": 0.72,
+      "peg": 0.67,
       "roe": 23.2,
       "grossMargin": 13.5,
       "revenueGrowth": 14.4,
@@ -1282,7 +1282,7 @@
       "currency": "DKK",
       "price": 89.32,
       "pe": 49.62,
-      "peg": 2.21,
+      "peg": 2.22,
       "roe": 2.97,
       "grossMargin": 54.41,
       "revenueGrowth": -8.2,
@@ -1311,7 +1311,7 @@
       "buy": 5,
       "hold": 2,
       "sell": 0,
-      "target": 88.8
+      "target": 87.3
     },
     {
       "ticker": "BAVA.CO",
@@ -1368,7 +1368,7 @@
       "buy": 8,
       "hold": 6,
       "sell": 1,
-      "target": 230.42
+      "target": 231.66
     },
     {
       "ticker": "ISS.CO",
@@ -1501,7 +1501,7 @@
       "buy": 9,
       "hold": 9,
       "sell": 4,
-      "target": 10.24
+      "target": 10.42
     },
     {
       "ticker": "NESTE.HE",
@@ -1529,7 +1529,7 @@
       "currency": "EUR",
       "price": 49.63,
       "pe": 26.26,
-      "peg": 2.07,
+      "peg": 2.04,
       "roe": 46.55,
       "grossMargin": 57.63,
       "revenueGrowth": 1.3,
@@ -1539,7 +1539,7 @@
       "buy": 5,
       "hold": 10,
       "sell": 6,
-      "target": 61.8
+      "target": 61.76
     },
     {
       "ticker": "SAMPO.HE",
@@ -1548,7 +1548,7 @@
       "currency": "EUR",
       "price": 9.04,
       "pe": 14.83,
-      "peg": 31.86,
+      "peg": 31.61,
       "roe": 21.26,
       "grossMargin": 40.98,
       "revenueGrowth": -7.8,
@@ -1558,7 +1558,7 @@
       "buy": 7,
       "hold": 7,
       "sell": 0,
-      "target": 10.51
+      "target": 10.52
     },
     {
       "ticker": "UPM.HE",
@@ -1605,7 +1605,7 @@
       "currency": "EUR",
       "price": 32.35,
       "pe": 29.41,
-      "peg": 4.77,
+      "peg": 4.48,
       "roe": 27.26,
       "grossMargin": 46.92,
       "revenueGrowth": -0.3,
@@ -1615,7 +1615,7 @@
       "buy": 4,
       "hold": 3,
       "sell": 8,
-      "target": 32.33
+      "target": 32.4
     },
     {
       "ticker": "METSO.HE",
@@ -1624,7 +1624,7 @@
       "currency": "EUR",
       "price": 14.93,
       "pe": 25.74,
-      "peg": 1.41,
+      "peg": 1.33,
       "roe": 17.57,
       "grossMargin": 32.52,
       "revenueGrowth": 3.3,
@@ -1634,7 +1634,7 @@
       "buy": 9,
       "hold": 6,
       "sell": 3,
-      "target": 17.06
+      "target": 17.08
     },
     {
       "ticker": "VALMT.HE",
