@@ -1,6 +1,6 @@
 {
-  "lastYahooUpdate": "2026-06-25T21:23:28Z",
-  "generatedAt": "2026-06-25T21:23:28Z",
+  "lastYahooUpdate": "2026-06-26T02:32:23Z",
+  "generatedAt": "2026-06-26T02:32:23Z",
   "stocks": [
     {
       "ticker": "TAL1T.TL",
@@ -216,13 +216,13 @@
       "name": "Ignitis Group",
       "index": "OMXV",
       "currency": "EUR",
-      "price": 21.25,
+      "price": 21.3,
       "pe": 10.07,
       "peg": null,
       "roe": 5.97,
       "grossMargin": 31.02,
       "revenueGrowth": 21.5,
-      "rsi": 52,
+      "rsi": 56,
       "beta": 0.136,
       "priceToBook": 0.6,
       "buy": 2,
