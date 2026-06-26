@@ -1,6 +1,6 @@
 {
-  "lastYahooUpdate": "2026-06-26T17:24:16Z",
-  "generatedAt": "2026-06-26T17:24:16Z",
+  "lastYahooUpdate": "2026-06-26T19:17:52Z",
+  "generatedAt": "2026-06-26T19:17:52Z",
   "stocks": [
     {
       "ticker": "SAN.MC",
@@ -931,7 +931,7 @@
       "buy": 6,
       "hold": 9,
       "sell": 0,
-      "target": 27.18
+      "target": 27.2
     },
     {
       "ticker": "PIRC.MI",
