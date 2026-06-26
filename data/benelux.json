@@ -1,6 +1,6 @@
 {
-  "lastYahooUpdate": "2026-06-26T17:25:18Z",
-  "generatedAt": "2026-06-26T17:25:18Z",
+  "lastYahooUpdate": "2026-06-26T19:20:02Z",
+  "generatedAt": "2026-06-26T19:20:02Z",
   "stocks": [
     {
       "ticker": "ASML.AS",
@@ -285,7 +285,7 @@
       "buy": 10,
       "hold": 3,
       "sell": 1,
-      "target": 58.88
+      "target": 58.9
     },
     {
       "ticker": "DSFIR.AS",
@@ -380,7 +380,7 @@
       "buy": 6,
       "hold": 1,
       "sell": 0,
-      "target": 43.92
+      "target": 43.94
     },
     {
       "ticker": "ASRNL.AS",
@@ -437,7 +437,7 @@
       "buy": 20,
       "hold": 6,
       "sell": 0,
-      "target": 80.35
+      "target": 80.38
     },
     {
       "ticker": "AGS.BR",
