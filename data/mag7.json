@@ -1,8 +1,8 @@
 {
-  "lastFmpUpdate": "2026-06-29T20:31:38Z",
-  "lastYahooUpdate": "2026-06-29T20:31:38Z",
-  "lastAnalystUpdate": "2026-06-29T20:31:38Z",
-  "generatedAt": "2026-06-29T20:31:38Z",
+  "lastFmpUpdate": "2026-06-29T21:59:49Z",
+  "lastYahooUpdate": "2026-06-29T21:59:49Z",
+  "lastAnalystUpdate": "2026-06-29T21:59:49Z",
+  "generatedAt": "2026-06-29T21:59:49Z",
   "stocks": [
     {
       "ticker": "MSFT",
@@ -53,7 +53,7 @@
       "buy": 58,
       "hold": 2,
       "sell": 1,
-      "target": 300.59
+      "target": 301.62
     },
     {
       "ticker": "AMZN",
