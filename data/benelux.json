@@ -1,6 +1,6 @@
 {
-  "lastYahooUpdate": "2026-06-29T16:28:55Z",
-  "generatedAt": "2026-06-29T16:28:55Z",
+  "lastYahooUpdate": "2026-06-29T18:31:31Z",
+  "generatedAt": "2026-06-29T18:31:31Z",
   "stocks": [
     {
       "ticker": "ASML.AS",
@@ -19,7 +19,7 @@
       "buy": 37,
       "hold": 6,
       "sell": 1,
-      "target": 1584.25
+      "target": 1612.82
     },
     {
       "ticker": "HEIA.AS",
@@ -285,7 +285,7 @@
       "buy": 10,
       "hold": 3,
       "sell": 1,
-      "target": 58.7
+      "target": 58.68
     },
     {
       "ticker": "DSFIR.AS",
@@ -380,7 +380,7 @@
       "buy": 6,
       "hold": 1,
       "sell": 0,
-      "target": 43.79
+      "target": 43.78
     },
     {
       "ticker": "ASRNL.AS",
@@ -437,7 +437,7 @@
       "buy": 20,
       "hold": 6,
       "sell": 0,
-      "target": 80.11
+      "target": 80.08
     },
     {
       "ticker": "AGS.BR",
@@ -528,7 +528,7 @@
       "revenueGrowth": 62.6,
       "rsi": 58,
       "beta": -0.033,
-      "priceToBook": 7.54,
+      "priceToBook": 7.56,
       "buy": 13,
       "hold": 2,
       "sell": 0,
