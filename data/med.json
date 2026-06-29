@@ -1,6 +1,6 @@
 {
-  "lastYahooUpdate": "2026-06-29T16:24:58Z",
-  "generatedAt": "2026-06-29T16:24:58Z",
+  "lastYahooUpdate": "2026-06-29T18:30:22Z",
+  "generatedAt": "2026-06-29T18:30:22Z",
   "stocks": [
     {
       "ticker": "SAN.MC",
@@ -813,7 +813,7 @@
       "revenueGrowth": 6.5,
       "rsi": 24,
       "beta": 0.972,
-      "priceToBook": 0.25,
+      "priceToBook": 0.26,
       "buy": 10,
       "hold": 15,
       "sell": 2,
@@ -931,7 +931,7 @@
       "buy": 6,
       "hold": 9,
       "sell": 0,
-      "target": 27.1
+      "target": 27.09
     },
     {
       "ticker": "PIRC.MI",
