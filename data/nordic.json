@@ -1,6 +1,6 @@
 {
-  "lastYahooUpdate": "2026-06-30T15:41:50Z",
-  "generatedAt": "2026-06-30T15:41:50Z",
+  "lastYahooUpdate": "2026-06-30T17:29:26Z",
+  "generatedAt": "2026-06-30T17:29:26Z",
   "stocks": [
     {
       "ticker": "ATCO-B.ST",
@@ -57,7 +57,7 @@
       "buy": 5,
       "hold": 2,
       "sell": 2,
-      "target": 189.08
+      "target": 189.19
     },
     {
       "ticker": "VOLV-B.ST",
@@ -190,7 +190,7 @@
       "buy": 3,
       "hold": 1,
       "sell": 0,
-      "target": 1065.81
+      "target": 1066.67
     },
     {
       "ticker": "ASSA-B.ST",
@@ -247,7 +247,7 @@
       "buy": 2,
       "hold": 6,
       "sell": 7,
-      "target": 679.89
+      "target": 680.31
     },
     {
       "ticker": "SAAB-B.ST",
@@ -589,7 +589,7 @@
       "buy": 3,
       "hold": 11,
       "sell": 10,
-      "target": 366.57
+      "target": 366.68
     },
     {
       "ticker": "DNB.OL",
@@ -627,7 +627,7 @@
       "buy": 7,
       "hold": 3,
       "sell": 0,
-      "target": 245.69
+      "target": 245.71
     },
     {
       "ticker": "TEL.OL",
@@ -760,7 +760,7 @@
       "buy": 8,
       "hold": 3,
       "sell": 3,
-      "target": 352.49
+      "target": 352.57
     },
     {
       "ticker": "SALM.OL",
@@ -836,7 +836,7 @@
       "buy": 6,
       "hold": 5,
       "sell": 1,
-      "target": 13.88
+      "target": 13.89
     },
     {
       "ticker": "AKER.OL",
@@ -893,7 +893,7 @@
       "buy": 4,
       "hold": 3,
       "sell": 1,
-      "target": 517.24
+      "target": 517.38
     },
     {
       "ticker": "BWLPG.OL",
@@ -912,7 +912,7 @@
       "buy": 2,
       "hold": 1,
       "sell": 1,
-      "target": 225.87
+      "target": 225.92
     },
     {
       "ticker": "FRO.OL",
@@ -931,7 +931,7 @@
       "buy": 4,
       "hold": 1,
       "sell": 1,
-      "target": 369.87
+      "target": 369.96
     },
     {
       "ticker": "NSKOG.OL",
@@ -1083,7 +1083,7 @@
       "buy": 1,
       "hold": 7,
       "sell": 11,
-      "target": 13941.47
+      "target": 13942.25
     },
     {
       "ticker": "DSV.CO",
@@ -1235,7 +1235,7 @@
       "buy": 14,
       "hold": 8,
       "sell": 4,
-      "target": 187.85
+      "target": 187.86
     },
     {
       "ticker": "TRYG.CO",
@@ -1368,7 +1368,7 @@
       "buy": 8,
       "hold": 6,
       "sell": 1,
-      "target": 231.64
+      "target": 231.66
     },
     {
       "ticker": "ISS.CO",
