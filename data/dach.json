@@ -1,6 +1,6 @@
 {
-  "lastYahooUpdate": "2026-06-30T17:31:35Z",
-  "generatedAt": "2026-06-30T17:31:35Z",
+  "lastYahooUpdate": "2026-06-30T19:26:23Z",
+  "generatedAt": "2026-06-30T19:26:23Z",
   "stocks": [
     {
       "ticker": "SAP.DE",
@@ -817,7 +817,7 @@
       "buy": 9,
       "hold": 9,
       "sell": 4,
-      "target": 124.86
+      "target": 124.9
     },
     {
       "ticker": "ABBN.SW",
@@ -836,7 +836,7 @@
       "buy": 7,
       "hold": 15,
       "sell": 5,
-      "target": 77.33
+      "target": 77.35
     },
     {
       "ticker": "UBSG.SW",
@@ -893,7 +893,7 @@
       "buy": 6,
       "hold": 5,
       "sell": 0,
-      "target": 93.3
+      "target": 93.34
     },
     {
       "ticker": "GEBN.SW",
@@ -969,7 +969,7 @@
       "buy": 0,
       "hold": 10,
       "sell": 6,
-      "target": 129.14
+      "target": 129.19
     },
     {
       "ticker": "SOON.SW",
@@ -1045,7 +1045,7 @@
       "buy": 16,
       "hold": 10,
       "sell": 0,
-      "target": 189.67
+      "target": 189.7
     },
     {
       "ticker": "STMN.SW",
