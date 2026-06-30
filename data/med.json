@@ -1,6 +1,6 @@
 {
-  "lastYahooUpdate": "2026-06-30T17:30:13Z",
-  "generatedAt": "2026-06-30T17:30:13Z",
+  "lastYahooUpdate": "2026-06-30T19:22:14Z",
+  "generatedAt": "2026-06-30T19:22:14Z",
   "stocks": [
     {
       "ticker": "SAN.MC",
@@ -1668,7 +1668,7 @@
       "revenueGrowth": 4.7,
       "rsi": 35,
       "beta": 0.34,
-      "priceToBook": 1.33,
+      "priceToBook": 1.25,
       "buy": 1,
       "hold": 1,
       "sell": 0,
