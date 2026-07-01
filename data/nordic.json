@@ -1,6 +1,6 @@
 {
-  "lastYahooUpdate": "2026-07-01T16:11:19Z",
-  "generatedAt": "2026-07-01T16:11:19Z",
+  "lastYahooUpdate": "2026-07-01T18:16:45Z",
+  "generatedAt": "2026-07-01T18:16:45Z",
   "stocks": [
     {
       "ticker": "ATCO-B.ST",
@@ -57,7 +57,7 @@
       "buy": 5,
       "hold": 2,
       "sell": 2,
-      "target": 188.92
+      "target": 189.02
     },
     {
       "ticker": "VOLV-B.ST",
@@ -190,7 +190,7 @@
       "buy": 3,
       "hold": 1,
       "sell": 0,
-      "target": 1067.63
+      "target": 1069.32
     },
     {
       "ticker": "ASSA-B.ST",
@@ -224,7 +224,7 @@
       "revenueGrowth": -3.3,
       "rsi": 47,
       "beta": 1.006,
-      "priceToBook": 6.36,
+      "priceToBook": 7.76,
       "buy": 2,
       "hold": 13,
       "sell": 11,
@@ -247,7 +247,7 @@
       "buy": 2,
       "hold": 6,
       "sell": 7,
-      "target": 679.29
+      "target": 679.68
     },
     {
       "ticker": "SAAB-B.ST",
@@ -585,11 +585,11 @@
       "revenueGrowth": -5.3,
       "rsi": 37,
       "beta": -0.752,
-      "priceToBook": 2.04,
+      "priceToBook": 1.79,
       "buy": 3,
       "hold": 11,
       "sell": 10,
-      "target": 366.46
+      "target": 366.75
     },
     {
       "ticker": "DNB.OL",
@@ -627,7 +627,7 @@
       "buy": 7,
       "hold": 3,
       "sell": 0,
-      "target": 244.99
+      "target": 244.92
     },
     {
       "ticker": "TEL.OL",
@@ -760,7 +760,7 @@
       "buy": 8,
       "hold": 3,
       "sell": 3,
-      "target": 352.4
+      "target": 352.67
     },
     {
       "ticker": "SALM.OL",
@@ -836,7 +836,7 @@
       "buy": 6,
       "hold": 5,
       "sell": 1,
-      "target": 13.88
+      "target": 13.89
     },
     {
       "ticker": "AKER.OL",
@@ -893,7 +893,7 @@
       "buy": 4,
       "hold": 3,
       "sell": 1,
-      "target": 515.84
+      "target": 515.7
     },
     {
       "ticker": "BWLPG.OL",
@@ -912,7 +912,7 @@
       "buy": 2,
       "hold": 1,
       "sell": 1,
-      "target": 225.82
+      "target": 225.99
     },
     {
       "ticker": "FRO.OL",
@@ -931,7 +931,7 @@
       "buy": 4,
       "hold": 1,
       "sell": 1,
-      "target": 369.83
+      "target": 370.09
     },
     {
       "ticker": "NSKOG.OL",
@@ -1045,7 +1045,7 @@
       "buy": 0,
       "hold": 1,
       "sell": 2,
-      "target": 25.55
+      "target": 25.57
     },
     {
       "ticker": "NOVO-B.CO",
@@ -1083,7 +1083,7 @@
       "buy": 1,
       "hold": 7,
       "sell": 11,
-      "target": 13978.42
+      "target": 13991.22
     },
     {
       "ticker": "DSV.CO",
@@ -1235,7 +1235,7 @@
       "buy": 14,
       "hold": 8,
       "sell": 4,
-      "target": 187.86
+      "target": 187.85
     },
     {
       "ticker": "TRYG.CO",
@@ -1368,7 +1368,7 @@
       "buy": 8,
       "hold": 6,
       "sell": 1,
-      "target": 231.66
+      "target": 231.65
     },
     {
       "ticker": "ISS.CO",
@@ -1782,7 +1782,7 @@
       "revenueGrowth": 3.7,
       "rsi": 60,
       "beta": 1.238,
-      "priceToBook": 1.42,
+      "priceToBook": 1.48,
       "buy": 0,
       "hold": 6,
       "sell": 3,
