@@ -1,8 +1,8 @@
 {
-  "lastFmpUpdate": "2026-07-01T20:15:49Z",
-  "lastYahooUpdate": "2026-07-01T20:15:49Z",
-  "lastAnalystUpdate": "2026-07-01T20:15:49Z",
-  "generatedAt": "2026-07-01T20:15:49Z",
+  "lastFmpUpdate": "2026-07-01T22:04:16Z",
+  "lastYahooUpdate": "2026-07-01T22:04:16Z",
+  "lastAnalystUpdate": "2026-07-01T22:04:16Z",
+  "generatedAt": "2026-07-01T22:04:16Z",
   "stocks": [
     {
       "ticker": "GSK",
@@ -24,14 +24,14 @@
     {
       "ticker": "RHHBY",
       "name": "Roche",
-      "price": 50.35,
+      "price": 50.59,
       "pe": 17.5,
       "peg": 2.5,
-      "priceToBook": 7.68,
+      "priceToBook": 7.71,
       "roe": 34.8,
       "grossMargin": 72.1,
       "revenueGrowth": 2.1,
-      "rsi": 46,
+      "rsi": 47,
       "beta": 0.33,
       "buy": 2,
       "hold": 4,
@@ -50,8 +50,8 @@
       "revenueGrowth": 14.8,
       "rsi": 54,
       "beta": 1.4,
-      "buy": 37,
-      "hold": 6,
+      "buy": 38,
+      "hold": 5,
       "sell": 1,
       "target": 1744.77
     },
@@ -104,7 +104,7 @@
       "buy": 5,
       "hold": 9,
       "sell": 0,
-      "target": 47.34
+      "target": 47.33
     },
     {
       "ticker": "LRLCY",
